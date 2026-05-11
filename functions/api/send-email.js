@@ -10,7 +10,7 @@ export async function onRequestPost(context) {
     },
     body: JSON.stringify({
       from: "Contact Form <onboarding@resend.dev>", // Change to a verified email later
-      to: "helene@quietlysorted.com", // Where you want to receive the mail
+      to: "prestonsimon@mac.com", // Where you want to receive the mail
       subject: "New Website Inquiry",
       html: `<p><strong>Message:</strong> ${body.message}</p>`,
     }),
