@@ -19,7 +19,7 @@ const services = [
   },
   {
     title: "Business Support",
-    description: "A flexible partner to drop in and assist whenever you and/or your team needs an extra set of hands. Able to mould to your business style, establish relationships fast and maintain networks to ensure effective support across the board",
+    description: "A flexible partner in crime to drop in and assist whenever you and/or your team needs an extra set of hands. Able to mould to your business style, establish relationships fast and maintain networks to ensure effective support across the board",
     icon: Users
   }
 ];
