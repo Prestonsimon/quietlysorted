@@ -31,13 +31,13 @@ export default function About() {
           </h2>
           <div className="space-y-6 text-brand-muted text-lg font-light leading-relaxed">
             <p>
-              Exceptional support doesn’t need to be visible to your clients, but they will feel the difference. My role is to work quietly in the background, ensuring. 
+              Exceptional support doesn't need to be visible to your clients, but they will feel the difference. My role is to work quietly in the background, ensuring every detail is handled seamlessly and efficiently. 
             </p>
             <p>
-              every detail is handled seamlessly and efficiently. Confidentiality is non-negotiable. I handle your business information, personal affairs, client data, and
+              Confidentiality is non-negotiable. I handle your business information, personal affairs, client data, and nternal processes with absolute discretion and uncompromising privacy.
             </p>
             <p>
-              internal processes with absolute discretion and uncompromising privacy. What you share with me remains strictly confidential—always.
+              What you share with me remains strictly confidential—always.
             </p>
           </div>
         </motion.div>
