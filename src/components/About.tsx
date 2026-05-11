@@ -34,7 +34,7 @@ export default function About() {
               Exceptional support doesn't need to be visible to your clients, but they will feel the difference. My role is to work quietly in the background, ensuring every detail is handled seamlessly and efficiently. 
             </p>
             <p>
-              Confidentiality is non-negotiable. I handle your business information, personal affairs, client data, and nternal processes with absolute discretion and uncompromising privacy.
+              Confidentiality is non-negotiable. I handle your business information, personal affairs, client data, and internal processes with absolute discretion and uncompromising privacy.
             </p>
             <p>
               What you share with me remains strictly confidential—always.
