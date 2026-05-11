@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
         
         <div className="font-light">
-          &copy; {new Date().getFullYear()} Quietly Sorted. All rights reserved.
+          &copy; {new Date().getFullYear()} Quietly Sorted Limited. All rights reserved.
         </div>
       </div>
     </footer>
