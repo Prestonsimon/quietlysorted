@@ -3,24 +3,24 @@ import { ClipboardCheck, Calendar, Users, LayoutDashboard } from 'lucide-react';
 
 const services = [
   {
-    title: "Organization",
-    description: "Decluttering digital and physical spaces to create a clear environment for productivity. Identify what needs finalising and how to do so to get it across the finish line and off the todo list",
-    icon: ClipboardCheck
-  },
-  {
     title: "Administration",
     description: "Taking the weight of paperwork and day-to-day admin tasks off your shoulders.",
     icon: Calendar
   },
   {
-    title: "Project Support",
-    description: "Coordinating logistics and keeping your projects on track from start to finish. Not afraid to speak up in new spaces and push to achieve clear deadlines. ",
-    icon: LayoutDashboard
-  },
-  {
     title: "Business Support",
     description: "A flexible partner to drop in and assist whenever you and/or your team needs an extra set of hands. Able to mould to your business style, establish relationships fast and maintain networks to ensure effective support across the board",
     icon: Users
+  },
+  {
+    title: "Organization",
+    description: "Decluttering digital and physical spaces to create a clear environment for productivity. Identify what needs finalising and how to do so to get it across the finish line and off the todo list",
+    icon: ClipboardCheck
+  },
+  {
+    title: "Project Support",
+    description: "Coordinating logistics and keeping your projects on track from start to finish. Not afraid to speak up in new spaces and push to achieve clear deadlines. ",
+    icon: LayoutDashboard
   }
 ];
 
