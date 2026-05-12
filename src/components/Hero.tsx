@@ -14,10 +14,11 @@ export default function Hero() {
             The art of <span className="italic">quiet</span> efficiency.
           </h1>
           <p className="text-xl text-brand-muted max-w-lg mb-10 leading-relaxed font-light">
-            Providing administrative and organizational support so you can focus on what you do best. I drop in, sort out, and ensure everything runs with the discretion of a sealed vault.
+            Providing administrative and organizational support so you can focus on what you do best. I drop in, sort out, and support your business with total discretion and quiet efficiency.
           </p>
           <motion.a
             href="#contact"
+
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="inline-flex items-center gap-3 bg-brand-ink text-brand-cream px-8 py-5 rounded-full text-sm uppercase tracking-widest font-medium transition-shadow hover:shadow-xl group"
